@@ -1,0 +1,19 @@
+{
+  "name": "cpe207_web4",
+  "version": "1.0.0",
+  "description": "cpe207_hw4",
+  "main": "mymain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TouchySarun/cpe207_web4.git"
+  },
+  "author": "sarun suesuwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TouchySarun/cpe207_web4/issues"
+  },
+  "homepage": "https://github.com/TouchySarun/cpe207_web4#readme"
+}
